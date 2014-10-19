@@ -1,0 +1,12 @@
+Adding a file to GitHub
+
+1: Open a notepad
+2: Save as addingfile.txt
+3: add some text to addingfile.txt
+4: Save addingfile.txt in local Hell0-world-for-dummies
+5: In git shell
+6: type: touch addingfile.txt
+7: type: git add addingfile.txt
+8: type: git commit -m "Add addingfile.txt"
+9: type: git push
+10: type: git status
